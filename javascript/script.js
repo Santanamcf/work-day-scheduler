@@ -43,8 +43,8 @@ $(document).ready(function () {
         retrieveItem(".saveBtn", ".description14", "key14")
         retrieveItem(".saveBtn", ".description15", "key15")
         retrieveItem(".saveBtn", ".description16", "key16")
-         retrieveItem(".saveBtn", ".description17", "key17")
-         retrieveItem(".saveBtn", ".description18", "key18")
+        retrieveItem(".saveBtn", ".description17", "key17")
+        retrieveItem(".saveBtn", ".description18", "key18")
         
     });
 })
